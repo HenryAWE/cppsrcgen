@@ -1,0 +1,4 @@
+non-ASCII characters
+café
+测试
+テスト
